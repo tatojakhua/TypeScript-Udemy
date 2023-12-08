@@ -11,7 +11,7 @@
     "typescript",
     "course"
   ],
-  "author": "Tato Jakhua",
+  "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
